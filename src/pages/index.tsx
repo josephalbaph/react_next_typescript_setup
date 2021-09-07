@@ -51,7 +51,7 @@ const Home: FC = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        Powered by <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
+        Powered by Joseph Alba
       </a>
     </footer>
   </div>
